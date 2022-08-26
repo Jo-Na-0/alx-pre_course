@@ -1,1 +1,3 @@
-echo ALX>#!/bin/bash
+echo ‘#!/bin/bash’ >alxh
+echo “ALX” >>alx
+
